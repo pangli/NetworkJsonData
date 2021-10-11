@@ -1,0 +1,50 @@
+{
+  "code": 0,
+  "message": "success",
+  "data": {
+    "order_id": "14454645664",
+    "serial_id": "345623234353464",
+    "create_time": "2021.03.11 12:00:00",
+    "payment_time": "2021.03.11 12:01:00",
+    "delivery_time": "2021.03.11 12:02:00",
+    "state": 4,
+    "currency": "$",
+    "total": 157840.25,
+    "tips": 20,
+    "product": 157820.25,
+    "products": [
+      {
+        "product_id": "id_0001_0001",
+        "product_name": "PUBG Mobile id_0001_0001",
+        "product_price": 199.99,
+        "product_currency_symbol": "$",
+        "count": 1,
+        "product_img": "https://img1.mydrivers.com/img/20180705/9b293feae9ac429383c8088f7da503c6.jpg"
+      },
+      {
+        "product_id": "id_0001_0002",
+        "product_name": "PUBG Mobile",
+        "count": 5,
+        "product_price": 299.99,
+        "product_currency_symbol": "$",
+        "product_img": "https://img1.mydrivers.com/img/20180705/9b293feae9ac429383c8088f7da503c6.jpg"
+      },
+      {
+        "product_id": "id_0001_0003",
+        "product_name": "PUBG Mobile id_0001_0003",
+        "count": 26,
+        "product_price": 399.99,
+        "product_currency_symbol": "$",
+        "product_img": "https://img1.mydrivers.com/img/20180705/9b293feae9ac429383c8088f7da503c6.jpg"
+      },
+      {
+        "product_id": "id_0001_0004",
+        "product_name": "PUBG Mobile id_0001_0004",
+        "count": 13,
+        "product_price": 499.99,
+        "product_currency_symbol": "$",
+        "product_img": "https://img1.mydrivers.com/img/20180705/9b293feae9ac429383c8088f7da503c6.jpg"
+      }
+    ]
+  }
+}
